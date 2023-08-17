@@ -23,7 +23,7 @@ En ouvrant le fichier `index.html` dans un navigateur web, vous verrez une page 
 
 ## Fonctionnalités
 
-- -   **Défilement Lisse** : Le portfolio utilise Locomotive Scroll pour créer un défilement fluide et interactif, améliorant ainsi l'expérience utilisateur.
+-   **Défilement Lisse** : Le portfolio utilise Locomotive Scroll pour créer un défilement fluide et interactif, améliorant ainsi l'expérience utilisateur.
     
 -   **Changement de Couleur de Fond** : La couleur de fond et la couleur du texte changent en fonction de la position du défilement. Lorsque la section "color" est en vue, le fond devient foncé avec un texte clair, et vice versa.
     
