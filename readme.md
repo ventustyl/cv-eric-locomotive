@@ -47,5 +47,5 @@ Ce projet est sous licence MIT
 
 ## Remerciements
 
--   Le design du site web et son contenu ont été inspirés par l'Univers Cinématographique Marvel et ses personnages.
--   La bibliothèque GSAP a été utilisée pour implémenter des animations au défilement et améliorer l'expérience utilisateur.
+
+-   La bibliothèque LOCOMOTIVE Scroll a été utilisée pour implémenter des animations au défilement et améliorer l'expérience utilisateur.
